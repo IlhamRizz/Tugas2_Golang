@@ -1,5 +1,6 @@
 # Tugas2_Golang
 Tugas Golang
+
 By IlhamRizk_
 
 # Output Soal 1
